@@ -1,4 +1,4 @@
-CloseBrowserSL
+BrowserCloseSL
 ==============
 
-Silvelight library which helps handling browser close event
+Silvelight library which helps developers handling browser close event (onbeforeunload).
