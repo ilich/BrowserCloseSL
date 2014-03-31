@@ -6,8 +6,6 @@ namespace BrowserCloseSL
     {
         event EventHandler<BeforeCloseEventArgs> BeforeClose;
 
-        void Start();
-
-        void Stop();
+        bool IsEnabled { get; set; }
     }
 }

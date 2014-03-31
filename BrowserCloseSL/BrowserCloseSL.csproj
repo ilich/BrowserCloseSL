@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BeforeCloseEventArgs.cs" />
+    <Compile Include="BrowserCloseListener.cs" />
     <Compile Include="IBrowserCloseListener.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
