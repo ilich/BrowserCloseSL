@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserCloseSL", "BrowserCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserCloseSL.Sample", "BrowserCloseSL.Sample\BrowserCloseSL.Sample.csproj", "{F1F900D2-FACA-44B0-A9DE-A8677CFA69B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserCloseSL.Sample.Web", "BrowserCloseSL.Sample.Web\BrowserCloseSL.Sample.Web.csproj", "{16628977-5647-44DD-BBF9-29E7F5E700E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F1F900D2-FACA-44B0-A9DE-A8677CFA69B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1F900D2-FACA-44B0-A9DE-A8677CFA69B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1F900D2-FACA-44B0-A9DE-A8677CFA69B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16628977-5647-44DD-BBF9-29E7F5E700E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16628977-5647-44DD-BBF9-29E7F5E700E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16628977-5647-44DD-BBF9-29E7F5E700E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16628977-5647-44DD-BBF9-29E7F5E700E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
