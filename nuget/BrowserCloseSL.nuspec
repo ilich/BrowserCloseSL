@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>BrowserCloseSL</id>
+    <version>0.1.1</version>
+    <authors>Ilya Verbitskiy</authors>
+    <owners>Ilya Verbitskiy</owners>
+    <licenseUrl>https://github.com/ilich/BrowserCloseSL/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ilich/BrowserCloseSL</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<title>BrowserCloseSL</title>
+    <description>Silvelight library which helps developers handling browser close event (onbeforeunload).</description>
+    <copyright>Copyright (c) 2014 Ilya Verbitskiy</copyright>
+    <tags>Silverlight onbeforeunload close unload exit</tags>
+  </metadata>
+</package>
